@@ -12,5 +12,5 @@ export class ButtonsComponent implements OnInit {
    constructor() { }
 
    ngOnInit() { }
-
+   deactivate() {}
 }
